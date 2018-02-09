@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b9d660dd-2c32-477c-827b-60f01391d6b1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>StoryGame.py</StartupFile>
+    <StartupFile>LoanCalculator.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

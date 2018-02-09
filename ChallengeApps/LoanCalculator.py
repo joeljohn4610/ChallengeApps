@@ -31,3 +31,4 @@ monthlypayment =  loanAmount * interestRate * (1 + interestRate) *  numberOfPaym
 
 #Print the monthly payment to the screen for the user
 print('Your monthly payment would be {0:.2f}' .format(monthlypayment))
+print('Good Luck!!')
